@@ -1,0 +1,20 @@
+{
+  "scean1": {
+    "time": "12:12:12",
+    "place": "aa",
+    "speaker": "a",
+    "lines": "a"
+  },
+  "scean2": {
+    "time": "123:123:123",
+    "place": "123",
+    "speaker": "123",
+    "lines": "123"
+  },
+  "scean3": {
+    "time": "123:123:123",
+    "place": "123",
+    "speaker": "김동우",
+    "lines": "안녕하세요."
+  }
+}

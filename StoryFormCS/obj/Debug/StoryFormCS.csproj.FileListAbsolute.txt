@@ -1,0 +1,13 @@
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\bin\Debug\StoryFormCS.exe.config
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\bin\Debug\StoryFormCS.exe
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\bin\Debug\StoryFormCS.pdb
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\obj\Debug\StoryFormCS.csprojAssemblyReference.cache
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\obj\Debug\StoryFormCS.Form1.resources
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\obj\Debug\StoryFormCS.Properties.Resources.resources
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\obj\Debug\StoryFormCS.csproj.GenerateResource.cache
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\obj\Debug\StoryFormCS.csproj.CoreCompileInputs.cache
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\obj\Debug\StoryFormCS.exe
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\obj\Debug\StoryFormCS.pdb
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\bin\Debug\Newtonsoft.Json.dll
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\bin\Debug\Newtonsoft.Json.xml
+D:\Users\gkf98\Desktop\StoryFormCS\StoryFormCS\obj\Debug\StoryFormCS.csproj.CopyComplete
